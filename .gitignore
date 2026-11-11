@@ -3,7 +3,6 @@ node_modules/
 
 # OS & editor files
 .DS_Store
-.vscode/
 .idea/
 
 # Build & logs
@@ -13,5 +12,4 @@ dist-ssr/
 
 # Archives & environment files
 Archive.zip
-.env
-.env.*
+config.bat
